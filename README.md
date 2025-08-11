@@ -1,12 +1,12 @@
 # git_memo
 
-[sss ](test.com)
+
 
 ## Contents
 
-- [Awesome Go](#awesome-go)
+- [Go](#)
   - [Contents](#contents)
-  - [Actor Model](#actor-model)
+  - [通用](#通用)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Audio and Music](#audio-and-music)
   - [Authentication and Authorization](#authentication-and-authorization)
@@ -16,11 +16,13 @@
   - [Command Line](#command-line)
     - [Advanced Console UIs](#advanced-console-uis)
     - [Standard CLI](#standard-cli)
-   
+  - [AI](#AI)
+    - [KittenTTS](#AI)
+  - [Vue](#)
 
 **[⬆ back to top](#contents)**
 
-## Actor Model
+## 通用
 
 _Libraries for building actor-based programs._
 
@@ -28,3 +30,7 @@ _Libraries for building actor-based programs._
 - [Goakt](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
 - [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
 - [ProtoActor](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
+
+## AI
+
+- [KittenTTS](https://github.com/KittenML/KittenTTS) - TTS 25M
